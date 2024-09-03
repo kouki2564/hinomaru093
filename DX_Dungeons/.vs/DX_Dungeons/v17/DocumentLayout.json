@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\HubScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\HubScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Object\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Object\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\UIPanel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\UIPanel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\UIPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\UIPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Object\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\HubScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\HubScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\GameScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\GameScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\CharacterBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Object\\CharacterBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\ObjectBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Object\\ObjectBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Manager\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\SceneBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\SceneBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\GameScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\GameScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Manager\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\TitleScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\TitleScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Manager\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Manager\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\CharacterBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Object\\CharacterBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\memory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\TitleScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\TitleScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\DebugScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\DebugScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Object\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\DebugScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E87EB5-89DC-481F-AAB5-A651BFA1DE82}|DX_Dungeons\\DX_Dungeons.vcxproj|solutionrelative:DX_Dungeons\\Data\\Script\\Scene\\DebugScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 192,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Main.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Main.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Main.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T02:39:01.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIPanel.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\UIPanel.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\UIPanel.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\UIPanel.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\UIPanel.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T03:36:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIManager.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\UIManager.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Manager\\UIManager.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\UIManager.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Manager\\UIManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T03:28:47.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TitleScene.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\TitleScene.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\TitleScene.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\TitleScene.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\TitleScene.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T03:27:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HubScene.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\HubScene.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\HubScene.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\HubScene.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\HubScene.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T03:13:51.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Config.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Config.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Config.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Config.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Config.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T04:22:22.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "memory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\memory",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\memory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\memory",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\memory",
+              "ViewState": "AQIAAPQNAAAAAAAAAAAawAoOAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-23T04:12:41.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boss.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Boss.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Object\\Boss.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Boss.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Object\\Boss.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T01:09:05.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameScene.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\GameScene.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\GameScene.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\GameScene.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\GameScene.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T07:34:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Manager\\SceneManager.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\SceneManager.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Manager\\SceneManager.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T07:33:03.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DebugScene.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\DebugScene.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\DebugScene.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\DebugScene.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\DebugScene.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T04:13:09.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Light.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Light.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Light.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Light.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Light.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T04:04:09.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CharacterBase.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\CharacterBase.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Object\\CharacterBase.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\CharacterBase.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Object\\CharacterBase.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T03:33:52.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Player.cpp",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Object\\Player.cpp",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Player.cpp",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Object\\Player.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T01:43:39.466Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\SceneManager.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Manager\\SceneManager.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\SceneManager.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Manager\\SceneManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T03:59:55.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Game.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Game.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Game.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-02T01:49:43.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SceneBase.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\SceneBase.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\SceneBase.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\SceneBase.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\SceneBase.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAawBwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T07:33:54.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIPanel.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\UIPanel.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\UIPanel.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\UIPanel.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\UIPanel.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-02T03:29:36.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIManager.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\UIManager.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Manager\\UIManager.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Manager\\UIManager.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Manager\\UIManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T03:00:21.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TitleScene.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\TitleScene.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\TitleScene.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\TitleScene.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\TitleScene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-22T06:01:47.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameScene.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\GameScene.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\GameScene.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\GameScene.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\GameScene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T04:13:02.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Config.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Config.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Config.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Config.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Config.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T04:13:05.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HubScene.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\HubScene.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\HubScene.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\HubScene.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\HubScene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T02:46:59.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Boss.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Boss.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Object\\Boss.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Boss.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Object\\Boss.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-09T00:34:34.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObjectBase.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\ObjectBase.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Object\\ObjectBase.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\ObjectBase.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Object\\ObjectBase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-09T00:36:05.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharacterBase.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\CharacterBase.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Object\\CharacterBase.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\CharacterBase.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Object\\CharacterBase.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T03:33:57.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DebugScene.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\DebugScene.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Scene\\DebugScene.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Scene\\DebugScene.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Scene\\DebugScene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T07:11:39.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Light.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Light.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Light.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Light.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Light.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-05T04:06:03.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Player.h",
+              "RelativeDocumentMoniker": "DX_Dungeons\\Data\\Script\\Object\\Player.h",
+              "ToolTip": "C:\\Users\\fko2347095\\Desktop\\GitHub\\hinomaru093\\DX_Dungeons\\DX_Dungeons\\Data\\Script\\Object\\Player.h",
+              "RelativeToolTip": "DX_Dungeons\\Data\\Script\\Object\\Player.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-29T01:43:48.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
